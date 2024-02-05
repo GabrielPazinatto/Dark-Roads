@@ -1,6 +1,6 @@
 # Dark-Roads
 
-###This is a small project I developed for my Graph Theory course. A part of it's definition can be found [here](https://www.beecrowd.com.br/repository/UOJ_1152_en.html).
+This is a small project I developed for my Graph Theory course. A part of it's definition can be found [here](https://www.beecrowd.com.br/repository/UOJ_1152_en.html).
 	
 ## Basic explanation
 * The challenge consisted on using _Prim's Algorithm_ to determine the minimum spanning tree of a graph (as a representation of a city), and calculating the difference between it's cost and the original graph's total cost.
