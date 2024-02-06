@@ -47,5 +47,5 @@ The "smallest" edge is:
 3. The edge with the smallest v2.
 
 ## TODO:
-- [ ] Add sample input and output files.
-- [ ] Add test script.
+- [X] Add sample input and output files.
+- [X] Add test script.
